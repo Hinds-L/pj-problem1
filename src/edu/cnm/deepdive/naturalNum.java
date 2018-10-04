@@ -7,7 +7,7 @@ public class naturalNum {
   public static void main(String[] args) {
 
     private static int get.Sum(){
-    if (int = 1; i <= 1000; i++){
+    if (i = 1; i <= 1000; i++){
           (i % 3 == 0 || i % 5 == 0);
 
     sum += 1;
